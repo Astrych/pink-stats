@@ -1,0 +1,546 @@
+
+Forked chain blocks (first 10 minutes):
+
+726956 {
+   "hash": "f8ed6cf107b4d323090fd0db916c5ba8700838b36c883ac95d1e84e8426a2615",
+   "confirmations": 2845,
+   "size": 2477,
+   "height": 726956,
+   "version": 1,
+   "merkleroot": "c1547d6e79c08640e0dd288ddd219bb128df754ad8be3b1bee58238f42724bfe",
+   "mint": 100.00000000,
+   "time": 1547240405,
+   "nonce": 0,
+   "bits": "1d00af84",
+   "difficulty": 1.45853735,
+   "blocktrust": "2c5a4e103d8",
+   "chaintrust": "232a06640b7d94ed",
+   "previousblockhash": "000000000001c3ccb122ad9d1fa0a675224c6dd4a19b1cd8da3ffc1b70d69e1c",
+   "nextblockhash": "6328aeb972a0e9249cb4ff95e5210705a794a2bcb9286e64c3175d70f131fd5f",
+   "flags": "proof-of-stake",
+   "proofhash": "0000135135fe9384e97c535d679b74e2459a93ff1f5e283e0a3c4323e75ce137",
+   "entropybit": 1,
+   "modifier": "ef137edad0e23c0e",
+   "tx": [
+      "231bc9104fe6c80789a9ae581cb30511d543b6e966ff8950db5e9f6958319517",
+      "b47fba70988893cb9330759405421c61264db317e33887e8555346b235068b4b"
+   ],
+   "signature": "304402204a0fd17024337d9eddfbcfe23735b19ac548d3ed863001497809915352cc771e0220579390739a7dff9892ed7af03fba4a06e1a2daf9bd659611f5e4530fbde1a157"
+}
+
+726957 {
+   "hash": "6328aeb972a0e9249cb4ff95e5210705a794a2bcb9286e64c3175d70f131fd5f",
+   "confirmations": 2844,
+   "size": 631,
+   "height": 726957,
+   "version": 1,
+   "merkleroot": "add31b584fc04c058d23184ec71c3ebff1a57b55530fc5a1845d420cc51f6521",
+   "mint": 100.00010000,
+   "time": 1547240422,
+   "nonce": 0,
+   "bits": "1d00a3dc",
+   "difficulty": 1.56229141,
+   "blocktrust": "2c5bf70bebb",
+   "chaintrust": "232a0a06d36774dd",
+   "previousblockhash": "f8ed6cf107b4d323090fd0db916c5ba8700838b36c883ac95d1e84e8426a2615",
+   "nextblockhash": "8baa6a1162e35c3e2a98629c6dec0da3623834f5ae9b023a3b0f9cc0cc180146",
+   "flags": "proof-of-stake stake-modifier",
+   "proofhash": "000025e85c2e062aa1f7c08ab2575c619cf433d7ce16e22eaeba5bc6cd2dcf78",
+   "entropybit": 1,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "d3b5a3df0384c74757854883148d9acaef265b99221aa5f53e4385082d26f89a",
+      "907321e4ce6184644b1a66cce613f522b4b6ddb9de52735ef8154f4edad74c6d",
+      "3a8c5126d4152700d0dc6012f20976e48230000eeeb2044be8aa26bdf6af6adf"
+   ],
+   "signature": "304502210081f6f2c90b67d8dad2ec038ee5af2173322768f9581bbd63835030ad4f2d78440220636aba61678bff5cf6a8bb33d51a033d2dbb0a0762d1eb37a3dfdb086606229b"
+}
+
+726958 {
+   "hash": "8baa6a1162e35c3e2a98629c6dec0da3623834f5ae9b023a3b0f9cc0cc180146",
+   "confirmations": 2843,
+   "size": 436,
+   "height": 726958,
+   "version": 1,
+   "merkleroot": "e9c966272f2c165d8d42bf3a6864a32e9a4c243bcdc3af9fa359da1fca84e87c",
+   "mint": 100.00000000,
+   "time": 1547240464,
+   "nonce": 0,
+   "bits": "1d0094fd",
+   "difficulty": 1.71822973,
+   "blocktrust": "2c5e75c7980",
+   "chaintrust": "232a0da9c33d0f92",
+   "previousblockhash": "6328aeb972a0e9249cb4ff95e5210705a794a2bcb9286e64c3175d70f131fd5f",
+   "nextblockhash": "e6ce3c171067618a1c9019980ffe3ed532232d40457b3dfae343ba9545c2c8e6",
+   "flags": "proof-of-stake",
+   "proofhash": "00025f3d446d1000409cc42cf16722dc593aeae5876a29da762a3a703e58e8df",
+   "entropybit": 0,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "6c20a5313e2a67f66f01e212427d79cb177e930a7c25e94cadd5411864886027",
+      "89944d9868e12ff749676f394cd7291249c4d268af25bad1a31be763268af7b6"
+   ],
+   "signature": "3045022100eab7aae73fc7c9e6812c1b58625c7252a7047f0143e5acf75bf50e4ebac8702d02201568289f92ab3b1d3cee1cbbf68db304e261a1e57b35023880ee6e7fb4743024"
+}
+
+726959 {
+   "hash": "e6ce3c171067618a1c9019980ffe3ed532232d40457b3dfae343ba9545c2c8e6",
+   "confirmations": 2842,
+   "size": 445,
+   "height": 726959,
+   "version": 1,
+   "merkleroot": "5d17db37164fa8cb89a75d52d6beed3e92af88a22580817b855eabff61d20b6e",
+   "mint": 100.00000000,
+   "time": 1547240436,
+   "nonce": 0,
+   "bits": "1d008874",
+   "difficulty": 1.87607351,
+   "blocktrust": "2c60fc5153a",
+   "chaintrust": "232a114cdb7b4601",
+   "previousblockhash": "8baa6a1162e35c3e2a98629c6dec0da3623834f5ae9b023a3b0f9cc0cc180146",
+   "nextblockhash": "5727cf17a23ccd5dd333f203cbab10279939d9be175d5205a70bdd5128ef9617",
+   "flags": "proof-of-stake",
+   "proofhash": "000047cc56ca5246fe4cfe5a095b3c2df009b0dc48e1ee55a81c741f2e8c0878",
+   "entropybit": 0,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "448634dd12aa23ece3b79001006af81869e0f8e67fb94d5355e71a289fd1276b",
+      "b4ab5711d808af9f2ecd9aebe889a2a0fda1d0a3212c2f5faf75a21d17b2ab66"
+   ],
+   "signature": "304502210088a07c4b0e0d1af0e28377ba2f4ead889d936f1b1085cdc6dc3a4e5fd268908f022054a25292c077db6059197546d8ef4c9915f9468131bbf44e43aa6f44dbb7b776"
+}
+
+726960 {
+   "hash": "5727cf17a23ccd5dd333f203cbab10279939d9be175d5205a70bdd5128ef9617",
+   "confirmations": 2841,
+   "size": 435,
+   "height": 726960,
+   "version": 1,
+   "merkleroot": "7e7d53421d438bc8f07e5dbd94a7348812cdc8a84892456d6baba544d4ff28b1",
+   "mint": 100.00000000,
+   "time": 1547240498,
+   "nonce": 0,
+   "bits": "1c7a7263",
+   "difficulty": 2.09067158,
+   "blocktrust": "2c646b53259",
+   "chaintrust": "232a14f02aa9998f",
+   "previousblockhash": "e6ce3c171067618a1c9019980ffe3ed532232d40457b3dfae343ba9545c2c8e6",
+   "nextblockhash": "b8666e678b11a721a001920806157255d10767d4d84eaae455b671f4ee9d69d6",
+   "flags": "proof-of-stake",
+   "proofhash": "00000e540d29d4435452f848bf32128b7f1108827f0dfecd62a33ecc52359106",
+   "entropybit": 1,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "c856720f3ea88b13fc4a171d4c42d486b14f2409e6b63ccffdb785b58a9a7ee6",
+      "7a2fd67339e9c74b87166b776220ef9a5e4c9831c058bf2fc576e02edb9ed69b"
+   ],
+   "signature": "3045022100b70032a2ba01275bf6ab4a67969a5ae849fd3bb558eb52cded35ba0ac508439302201ef27bda9805570e1e6a96818fecaeb92c714085ffb63bdf95e2fcfaedaea3fd"
+}
+
+726961 {
+   "hash": "b8666e678b11a721a001920806157255d10767d4d84eaae455b671f4ee9d69d6",
+   "confirmations": 2840,
+   "size": 480,
+   "height": 726961,
+   "version": 1,
+   "merkleroot": "20ee3d0f15cba50b69da52a1c1b9b0e175cae09380ba8e00fdf6c7c98ef25011",
+   "mint": 100.00000000,
+   "time": 1547240474,
+   "nonce": 0,
+   "bits": "1c70cb29",
+   "difficulty": 2.26959780,
+   "blocktrust": "2c674837bef",
+   "chaintrust": "232a1893a7a636b3",
+   "previousblockhash": "5727cf17a23ccd5dd333f203cbab10279939d9be175d5205a70bdd5128ef9617",
+   "nextblockhash": "299060f4ee199c0df075356c1495aa718622430fb78e7d9fda19cf91672b77a7",
+   "flags": "proof-of-stake",
+   "proofhash": "0000358e4f38af94df992c03139620ce31ec56d7a1ffd3941974d04be5b54a41",
+   "entropybit": 0,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "ff93afd1ed632927097b530254d2e51345cf2f726f7c11b8951243e88775f1ee",
+      "7a86162a9eaa4103568c8a50943d735935e3d394007ce555be9fa778a5ca9437"
+   ],
+   "signature": "30450221008d6b2ed6cadcf58341ce622a563189d42f3df7300055cebb3f8f31bb32dc058b02207617011eb2781981d28a7d14cdb34cdf9163cdd20615d243b0214ae553514f94"
+}
+
+726962 {
+   "hash": "299060f4ee199c0df075356c1495aa718622430fb78e7d9fda19cf91672b77a7",
+   "confirmations": 2839,
+   "size": 435,
+   "height": 726962,
+   "version": 1,
+   "merkleroot": "38ed6ec30927f66b2520cd63714c0892bd8e8b98047219e031bd3b56763e51dc",
+   "mint": 100.00000000,
+   "time": 1547240493,
+   "nonce": 0,
+   "bits": "1c6555cf",
+   "difficulty": 2.52623096,
+   "blocktrust": "2c6b636738e",
+   "chaintrust": "232a1c376655cb76",
+   "previousblockhash": "b8666e678b11a721a001920806157255d10767d4d84eaae455b671f4ee9d69d6",
+   "nextblockhash": "ad30b0f8b63281a497aabd9434d81879eb37339672c7b22e83dc7336ae1a1f17",
+   "flags": "proof-of-stake",
+   "proofhash": "00000d13610e9dada3cf2a0d634b0c8975caa1e7dd397f6c7c9dbbdda17d6fb6",
+   "entropybit": 1,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "8609d189fb4959c63fa45b1ff4355a631bc898e7962fc571ea8623d19fea4130",
+      "c19c2759d644c11d1f4f85438db2bad0d6ee21bf96cb74b28c922d122f4c672a"
+   ],
+   "signature": "3045022100e246494669b76f90c7920fb5b697003148685aad0b6df4dd8e69c6b934face460220031ed4744525539886ce8a74580330a50d794cec47fb8ed2af0f497a65aeaca3"
+}
+
+726963 {
+   "hash": "ad30b0f8b63281a497aabd9434d81879eb37339672c7b22e83dc7336ae1a1f17",
+   "confirmations": 2838,
+   "size": 845,
+   "height": 726963,
+   "version": 1,
+   "merkleroot": "5c395a0752f7e60f4132cf81a348208d55934d7a931b1508eec4fff634473bc7",
+   "mint": 100.00060000,
+   "time": 1547240569,
+   "nonce": 0,
+   "bits": "1c5c318e",
+   "difficulty": 2.77672386,
+   "blocktrust": "2c6f657012a",
+   "chaintrust": "232a1fdb6525edd5",
+   "previousblockhash": "299060f4ee199c0df075356c1495aa718622430fb78e7d9fda19cf91672b77a7",
+   "nextblockhash": "8cd9ddd26c80c06bdab3349970513daaedc79f1df708e0beed990a6690f22c19",
+   "flags": "proof-of-stake",
+   "proofhash": "000000eaa028cc7031a547a122bf1b65ad250b1a40a34b5c993871036d11a213",
+   "entropybit": 1,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "26f6e463159e00034eac147a0dd8f086ebc60f1a0687ab43ade4fe5189551828",
+      "7a71599a6fb38419aefdc733846c2062afa3d25baeca78334bb68e488db45c18",
+      "51f4ccc84577e0db54cd1cb6fa81a6b92a5bbc6fba5750ca4c281ecc05b31b87"
+   ],
+   "signature": "3044022054a506c0c5bd473f82b0c48fd4a6fe169d13794a4e3095cd73d6e4efc7bfe6f9022064109580e5acce8c57d0d434622cb60ccd7d8f74fc7fba1f42ee7254dae2f595"
+}
+
+726964 {
+   "hash": "8cd9ddd26c80c06bdab3349970513daaedc79f1df708e0beed990a6690f22c19",
+   "confirmations": 2837,
+   "size": 4214,
+   "height": 726964,
+   "version": 1,
+   "merkleroot": "28728cde2c4b7b7316486e4b1de46cadf1eeb770865e9fbfd0fff787b6ef15b1",
+   "mint": 100.00050000,
+   "time": 1547240591,
+   "nonce": 0,
+   "bits": "1c554450",
+   "difficulty": 3.00229347,
+   "blocktrust": "2c7301628f2",
+   "chaintrust": "232a237f9db537fc",
+   "previousblockhash": "ad30b0f8b63281a497aabd9434d81879eb37339672c7b22e83dc7336ae1a1f17",
+   "nextblockhash": "ce08b9c829fd5ccac70e0133ee4e0661b6363f9aac8b1e3e27b08a6b07eec99b",
+   "flags": "proof-of-stake",
+   "proofhash": "0000ed332a583aa98a553738ccae05f35768608572723dd276aa6c9279a3ab80",
+   "entropybit": 1,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "8bf178664288144f42e96d2632dc1298919cfb70d837093e4c4723806f5df192",
+      "bb894d40e0fe01910ee0d6de491d4544cba2577e63a454de2dfb8a7cacd59b97",
+      "1ef9c7cce1d8ed6c2c01b262e81441a5b35f6d72271d632908ed07a25a5cfeb4",
+      "1635aec5998dcea45a7b5bb8332d80f7822da8989c5a3c20a6b5fbe4c9ccc9ce"
+   ],
+   "signature": "3044022042d58bfc08ce6008893f50193b33e87c0397a76f3152da62f327a054ea492c8d022031856e872fef80c4be029f45f62fb2d84309b1e68f32b13361e658af47750e4c"
+}
+
+726965 {
+   "hash": "ce08b9c829fd5ccac70e0133ee4e0661b6363f9aac8b1e3e27b08a6b07eec99b",
+   "confirmations": 2836,
+   "size": 480,
+   "height": 726965,
+   "version": 1,
+   "merkleroot": "eb35d4c9b5455a3e947ca5ad791505923dff293bed6f6664f5491c9b211d1a33",
+   "mint": 100.00000000,
+   "time": 1547240634,
+   "nonce": 0,
+   "bits": "1c4da477",
+   "difficulty": 3.29711548,
+   "blocktrust": "2c77b8fe917",
+   "chaintrust": "232a272421be4248",
+   "previousblockhash": "8cd9ddd26c80c06bdab3349970513daaedc79f1df708e0beed990a6690f22c19",
+   "nextblockhash": "570ad47e2fdb778a80e4913a0b8f2fe14b172b4b2a30a02b2337421579c4e854",
+   "flags": "proof-of-stake",
+   "proofhash": "00000c8ea5bac4bd1582c080cbc5d0f873b16eeb965d474d3dae9ca5d4d42f55",
+   "entropybit": 1,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "ccdfe772b13b01d642b31e8adc8d205fb1539f478f77e69c9726c0ab6bf93360",
+      "a220f2708387b27aba17103f07ecf9b21c97e159cdfa44439c8bc2d677e5ac6e"
+   ],
+   "signature": "304502210087ed62b8670d8f9652dff1f5ae2f7810a6ece3d0dfda84d32651de3a4996cd52022024abaebd2b8722937e0ea29050f1a65c1cee5d9a5f8101d65e21ceb66a912407"
+}
+
+726966 {
+   "hash": "570ad47e2fdb778a80e4913a0b8f2fe14b172b4b2a30a02b2337421579c4e854",
+   "confirmations": 2835,
+   "size": 435,
+   "height": 726966,
+   "version": 1,
+   "merkleroot": "38b5030deea8c8a8c7d8b604c605c5b62a599e9800c8938665fcbde0c6c6a872",
+   "mint": 100.00000000,
+   "time": 1547240697,
+   "nonce": 0,
+   "bits": "1c472193",
+   "difficulty": 3.59893094,
+   "blocktrust": "2c7c8d3fd66",
+   "chaintrust": "232a2ac8f30b60e3",
+   "previousblockhash": "ce08b9c829fd5ccac70e0133ee4e0661b6363f9aac8b1e3e27b08a6b07eec99b",
+   "nextblockhash": "597661f72a6754c96bd80eaec6ba50aefb262567e22b9096baf9a05b8132be6e",
+   "flags": "proof-of-stake",
+   "proofhash": "0000056238202ab91a70fc9724c2db153b3ac139334f255242aae86d3dd086cb",
+   "entropybit": 0,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "eddf318f43d18467a7e2b46485c2a32dbea86af05304f2984a7b02f984b1efc7",
+      "1ae901b8199b0015d83cabf5c68ce1e1b2583d93daac2d9dd988af98b1548350"
+   ],
+   "signature": "3045022100f19f4e164b9b42fe0c420231fc2fd5e12b84d0d307de3710aca86e6462a1ae4502205f943ad812e617c59bfdd56e623b619898cc2a0dbf5da2bffb9066f232e21458"
+}
+
+726967 {
+   "hash": "597661f72a6754c96bd80eaec6ba50aefb262567e22b9096baf9a05b8132be6e",
+   "confirmations": 2834,
+   "size": 401,
+   "height": 726967,
+   "version": 1,
+   "merkleroot": "a1c12dba2a4dee077bd5bd197a0797cb76cf7c7fbb36c9efd29179ee7a4d0230",
+   "mint": 100.00000000,
+   "time": 1547240770,
+   "nonce": 0,
+   "bits": "1c418ad2",
+   "difficulty": 3.90581690,
+   "blocktrust": "2c81764601e",
+   "chaintrust": "232a2e6e12e8e236",
+   "previousblockhash": "570ad47e2fdb778a80e4913a0b8f2fe14b172b4b2a30a02b2337421579c4e854",
+   "nextblockhash": "00000000003ac58291008a5ce76fd703336938f0bf8ed7c94ca7adea9ad1d4dd",
+   "flags": "proof-of-stake",
+   "proofhash": "00001991a758b0e5a70c1ed4a48687cb4b71e2fa521cec56e76719fbac48cf0f",
+   "entropybit": 0,
+   "modifier": "f6b9feed68711e07",
+   "tx": [
+      "a34ed503041ae7dbf8decfa20cabe8687fd97f07454fccfd7551912ebad5cad4",
+      "c17ab2929da74f1c8697b6e279682b21deaa5fd6e07920667500fb57b686b7a8"
+   ],
+   "signature": "304402202f8149438c3f17444ff30a2c91d557ae61b8e63eb88bf9f74b6f52693721408e022043dbcb9134d09a1fadc32d97b1007063e451b5625155bee4cf9f906839d53823"
+}
+
+726968 {
+   "hash": "00000000003ac58291008a5ce76fd703336938f0bf8ed7c94ca7adea9ad1d4dd",
+   "confirmations": 2833,
+   "size": 257,
+   "height": 726968,
+   "version": 1,
+   "merkleroot": "1b165085c52ffbbd03c0914584078b1fadb3d035fd8cb79f8c46b4712f874f48",
+   "mint": 50.00000000,
+   "time": 1547240788,
+   "nonce": 1582130072,
+   "bits": "1b435e3c",
+   "difficulty": 972.78974849,
+   "blocktrust": "3cccdf9c2ec",
+   "chaintrust": "232a323ae0e2a522",
+   "previousblockhash": "597661f72a6754c96bd80eaec6ba50aefb262567e22b9096baf9a05b8132be6e",
+   "nextblockhash": "0e630aa7d770680178425267b40e079490e4b121b3448534b389a21d608d0b03",
+   "flags": "proof-of-work stake-modifier",
+   "proofhash": "00000000003ac58291008a5ce76fd703336938f0bf8ed7c94ca7adea9ad1d4dd",
+   "entropybit": 1,
+   "modifier": "fa5d7feab4388f03",
+   "tx": [
+      "1b165085c52ffbbd03c0914584078b1fadb3d035fd8cb79f8c46b4712f874f48"
+   ]
+}
+
+726969 {
+   "hash": "0e630aa7d770680178425267b40e079490e4b121b3448534b389a21d608d0b03",
+   "confirmations": 2832,
+   "size": 402,
+   "height": 726969,
+   "version": 1,
+   "merkleroot": "bf8c31616143f6ed0ef717478e9db49f2f578a3cbabec022c4d13a10ee0f8a6e",
+   "mint": 100.00000000,
+   "time": 1547240832,
+   "nonce": 0,
+   "bits": "1c3c90df",
+   "difficulty": 4.22673620,
+   "blocktrust": "2c8698c76b5",
+   "chaintrust": "232a35e052e83d0c",
+   "previousblockhash": "00000000003ac58291008a5ce76fd703336938f0bf8ed7c94ca7adea9ad1d4dd",
+   "nextblockhash": "0cc5724db90438984287111a2bf97d03abe5d4313348ee7565218120d109a7ea",
+   "flags": "proof-of-stake",
+   "proofhash": "0000031483b701db5aaeab7701640a036da7a78324dcd0bb2502fa0391c92241",
+   "entropybit": 1,
+   "modifier": "fa5d7feab4388f03",
+   "tx": [
+      "8604278ee116e82683d0fc22cb7de65941cb0c45ebad1954196a9c52c31433a7",
+      "8e89784e483a7aa10b5efafb23d31c3d4239234af621aa125337699d8ebd9163"
+   ],
+   "signature": "3045022100861042ff20c319fff02015faf0595f43a60965296fd08a821b3fa17b43ea7b8502206d72b6b80c977631038a7acb45531f8bee4a59d964764d9c44fcbcc6f1e0e8b1"
+}
+
+726970 {
+   "hash": "0cc5724db90438984287111a2bf97d03abe5d4313348ee7565218120d109a7ea",
+   "confirmations": 2831,
+   "size": 400,
+   "height": 726970,
+   "version": 1,
+   "merkleroot": "0992be6c1c29bc883ddf364d817bdece33344134234d7592bf5861ba25aaa29a",
+   "mint": 100.00000000,
+   "time": 1547240845,
+   "nonce": 0,
+   "bits": "1c37ca87",
+   "difficulty": 4.58847362,
+   "blocktrust": "2c8c627a622",
+   "chaintrust": "232a398621890463",
+   "previousblockhash": "0e630aa7d770680178425267b40e079490e4b121b3448534b389a21d608d0b03",
+   "nextblockhash": "c7b07b19f7c0c4a38b15429515e114c689a0105847abb103c0fa4c9aca125620",
+   "flags": "proof-of-stake",
+   "proofhash": "0000143717b0314c2ee6fc110ae64715e37c875ded064ea78927e22dcaf71244",
+   "entropybit": 0,
+   "modifier": "fa5d7feab4388f03",
+   "tx": [
+      "8b78b715daa018ffe68ebf0ac670772ec77f0a38627c5c594e8045c496009e17",
+      "f50daa30b2afe339196e2665a7a61e30c01df9d2d4e37c7eb304dd34d4db9a72"
+   ],
+   "signature": "3044022006868ecf14761dffcff339de9c2994e8ba99f4a4ca7a1d938628ad40ebe338320220131bba9380e0381065e5fab4400e4ba1274ff214de33122818bd54019ddbb8ee"
+}
+
+726971 {
+   "hash": "c7b07b19f7c0c4a38b15429515e114c689a0105847abb103c0fa4c9aca125620",
+   "confirmations": 2830,
+   "size": 400,
+   "height": 726971,
+   "version": 1,
+   "merkleroot": "f7d4a0265af6ccb012b50ac50ca474db326a132fb4db40e08b01c632266d80a4",
+   "mint": 100.00000000,
+   "time": 1547240867,
+   "nonce": 0,
+   "bits": "1c32ab68",
+   "difficulty": 5.05226640,
+   "blocktrust": "2c93ce33c81",
+   "chaintrust": "232a3d2c66e56219",
+   "previousblockhash": "0cc5724db90438984287111a2bf97d03abe5d4313348ee7565218120d109a7ea",
+   "nextblockhash": "69431ee26bb3e4cea143d1dcc48ea9fff079c66607910731abeda2260eab22ab",
+   "flags": "proof-of-stake",
+   "proofhash": "0000168e0c03150c1c2eb73a809943d38ff80af7d05275a9f6bdb2d7d5405392",
+   "entropybit": 0,
+   "modifier": "fa5d7feab4388f03",
+   "tx": [
+      "1179bcf11111f9e420c1034d27a19218ecca80754d5882cb7c942d564116cc93",
+      "7225cbff9ba2110b5bface2ea8d2a79c326a7f9d03fc9b08e09a60e03c53a68a"
+   ],
+   "signature": "3044022018fa91ac33d24ea66879d541a91b1f43b2e433113f4e8bae0df6e4786a0bdff4022054af2767f3ab2e33400684b20c1a3165c563ebc808e5abf79c17e257db2ddd1a"
+}
+
+726972 {
+   "hash": "69431ee26bb3e4cea143d1dcc48ea9fff079c66607910731abeda2260eab22ab",
+   "confirmations": 2829,
+   "size": 9161,
+   "height": 726972,
+   "version": 1,
+   "merkleroot": "bd7dd87f8ec5ea0bb504ae9b9683b8b3cd63628f278f060488ca4e0cceffec29",
+   "mint": 100.00050000,
+   "time": 1547240902,
+   "nonce": 0,
+   "bits": "1c2e2387",
+   "difficulty": 5.54839337,
+   "blocktrust": "2c9bbe5e8cb",
+   "chaintrust": "232a40d32b446c19",
+   "previousblockhash": "c7b07b19f7c0c4a38b15429515e114c689a0105847abb103c0fa4c9aca125620",
+   "nextblockhash": "24efd7f046caefec619ccfe268fb5418beb34ef3c0543e48b0ad345da27c7b82",
+   "flags": "proof-of-stake",
+   "proofhash": "0000008d13a2b11a9cfaf0bc13adf2966a70bc3ec80316da76f5067659b2d4c6",
+   "entropybit": 1,
+   "modifier": "fa5d7feab4388f03",
+   "tx": [
+      "ce2aa0fba0f5d57405ff82010b1df1df7fc7836408a9f16d6a95a3127170d112",
+      "2db6182f2f9c3501d16ae09370be48ae96748f259eae3d48d31b64c0ab7fb2c4",
+      "2049a35a2ee60600a522deef3cdf04d089997689fff699950882b223c6d15156",
+      "896d466bff9acb5b12c23248e99d959a70648891468ebba5ff47592da4ff7549"
+   ],
+   "signature": "304402202dad4d2c3f1ca2c7a7694971ef9c7b6678b47ad4b9027dfda447bff49b672f8f0220582362ae3b60df697acb77e7ce08cf71fc521052a75e30f50108bb877ca31664"
+}
+
+726973 {
+   "hash": "24efd7f046caefec619ccfe268fb5418beb34ef3c0543e48b0ad345da27c7b82",
+   "confirmations": 2828,
+   "size": 401,
+   "height": 726973,
+   "version": 1,
+   "merkleroot": "fdbb4fae36a3ed60978cee25b58c18808d8462bcb6e99b08ca460ed84637a4dd",
+   "mint": 100.00000000,
+   "time": 1547240950,
+   "nonce": 0,
+   "bits": "1c2a2bfc",
+   "difficulty": 6.07031260,
+   "blocktrust": "2ca4182ee19",
+   "chaintrust": "232a447a75407b67",
+   "previousblockhash": "69431ee26bb3e4cea143d1dcc48ea9fff079c66607910731abeda2260eab22ab",
+   "nextblockhash": "f94000b1010898530510a9010904556cd6b124157390f305362d73dfd38abb4d",
+   "flags": "proof-of-stake",
+   "proofhash": "0000104ed3f019d6e6e878604ad400c511bfbbdf66b8e92b8638389d972869dc",
+   "entropybit": 0,
+   "modifier": "fa5d7feab4388f03",
+   "tx": [
+      "26a45f6fb40a261585e5999b4aff6691be9d9f63690bbc107399527c211fbcfc",
+      "5781e1284355b4db7f0ff932af926331ca92169c25643c8e351673bdd0c246b2"
+   ],
+   "signature": "3045022100eceecb2454cb817566e5c26b1bbfc27678e7093d87a3b53ba18891cbaf3292cc02200cb3ec2631f27e0881ed306c60dd7b891bb70c1f81fac3b48e8bc6ee39e8e226"
+}
+
+726974 {
+   "hash": "f94000b1010898530510a9010904556cd6b124157390f305362d73dfd38abb4d",
+   "confirmations": 2827,
+   "size": 400,
+   "height": 726974,
+   "version": 1,
+   "merkleroot": "72f1f3490474983f270aab6f2635086c17514b3cb02c5575b416c318333d5ae1",
+   "mint": 100.00000000,
+   "time": 1547241038,
+   "nonce": 0,
+   "bits": "1c26b0e3",
+   "difficulty": 6.61643105,
+   "blocktrust": "2cacd51e504",
+   "chaintrust": "232a48224b0b81a0",
+   "previousblockhash": "24efd7f046caefec619ccfe268fb5418beb34ef3c0543e48b0ad345da27c7b82",
+   "nextblockhash": "5b3a1b56acf5cfce3877b3ecc6215a1a8b9df598b11547d0aa6bcd90a6b6bbd7",
+   "flags": "proof-of-stake",
+   "proofhash": "0000036972e5371e2a13ac43f727b0972f995366f16b12757ebde45b603ea2e0",
+   "entropybit": 1,
+   "modifier": "fa5d7feab4388f03",
+   "tx": [
+      "7e5870929f9c2976868cfc61306375dd550dd7d9e9b6a0cea27a7a931093241d",
+      "8e57424d30f2ec31b1b147cd8eeeb45a170dd57295d20cccfe46697df0acfbd3"
+   ],
+   "signature": "304402203d56daac026d21f49822f4d9eb5957faf0776889f6a22002a9515f797a1988d5022009d2dc5a15267818752d697fddac64d89233f810ec01698ef2a2d34d51505a47"
+}
+
+726975 {
+   "hash": "5b3a1b56acf5cfce3877b3ecc6215a1a8b9df598b11547d0aa6bcd90a6b6bbd7",
+   "confirmations": 2826,
+   "size": 402,
+   "height": 726975,
+   "version": 1,
+   "merkleroot": "c2051a1c49685dd7d82549886d1fac0726d65b3dfbb39c82960e496cf4259a11",
+   "mint": 100.00000000,
+   "time": 1547241100,
+   "nonce": 0,
+   "bits": "1c23e827",
+   "difficulty": 7.12945103,
+   "blocktrust": "2cb50a7af6f",
+   "chaintrust": "232a4bcaa42c5244",
+   "previousblockhash": "f94000b1010898530510a9010904556cd6b124157390f305362d73dfd38abb4d",
+   "nextblockhash": "777de812950546834d2b110a72d0c24bb97e03f84a3ccbe4768fd5d16f454280",
+   "flags": "proof-of-stake stake-modifier",
+   "proofhash": "00000ac9de0dd1a73ae22e956fa1d8bce09b5cef5ac6948125ad901dc73a990a",
+   "entropybit": 1,
+   "modifier": "fe1e5d7edad0e23c",
+   "tx": [
+      "76dc6edeceb971cfeda0d7d4fd4519788ab63f74d59c74967993d1cacbd34d36",
+      "f611bf04e10667629bbe180e2451d9773c402b339a145a64fa79229b84b9e5fc"
+   ],
+   "signature": "30450221008759a75b23758ee0d658681d2785d61f2742a2170043828f7a422c4513f22221022030361334a02d0e4b9b90abb35e9eef05ce3dfc9ee4654b6d3aa06951393525fe"
+}
